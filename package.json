@@ -4,6 +4,7 @@
   "description": "Some TypeScript project",
   "author": "you",
   "email": "you@example.com",
+  "license": "MIT",
   "main": "app.js",
   "scripts": {
     "build": "./node_modules/.bin/tsc",
